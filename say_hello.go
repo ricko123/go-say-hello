@@ -1,7 +1,7 @@
 package go_say_hello
 
 func SayHello() string {
-	return "Hello"
+	return "Hello World"
 }
 
 //command git untuk rilis tag
